@@ -5,4 +5,5 @@
 window .alert('this is a alert box');
 ```
 
-![mayank](https://user-images.githubusercontent.com/95153970/143727789-c2489766-31f9-4dd2-8cd2-3c1e3cc7907b.jpg)
+
+![5](https://user-images.githubusercontent.com/95153970/143728131-4219ab47-2b5a-48ef-bc0f-887609c37621.jpg)
